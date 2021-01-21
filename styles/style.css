@@ -1,0 +1,120 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+#wrapper {
+    width: 980px;
+    height: 1070px;
+    background-color: #F8F8F8;
+}
+
+.header h1, h2 {
+    display: inline-block;
+}
+
+.header h1 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    margin-left: 15px;
+}
+.header h2 {
+    margin-left: 385px;
+}
+.content {
+    background-image: radial-gradient(#6F5964, #1b0b0f);
+    width: 980px;
+    height: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content img {
+    width: 310px;
+    margin: 15px;
+    border: 5px solid #c0c0c0;
+
+}
+.about {
+    display: inline-block;
+    background-color: whitesmoke;
+    width: 600px;
+    vertical-align: top;
+    margin: 15px 0px 5px 5px;
+    padding-bottom: 7px;
+}
+.about h3 {
+    background-color: gray;
+    color: white;
+    padding-left: 10px;
+}
+.about p, .about a {
+    padding: 10px;
+}
+.about a {
+    color: black
+}
+.myprojects {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 580px;
+    background-color: white;
+    margin: 9px;
+}
+.myprojects h2 {
+    background-image: linear-gradient(#B2B2B6, #898795, #B2B2B6);
+    width: 295px;
+    margin: 0;
+    padding: 5px 0px 5px 5px;
+    color: white;
+}
+.myprojects h3 {
+    background-image: linear-gradient(#B2B2B6, #898795, #B2B2B6);
+    color: white;
+    padding: 5px;
+}
+.myprojects img {
+    width: 280px;
+    height: auto;
+    margin: 0px 0px 5px 0px;
+    border-style: none;
+}
+.myprojects p {
+    font-size: 15px;
+    margin: 5px;
+    height: 160px;
+    text-align: justify;
+}
+.tech_images li {
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.tech_images img {
+    width: 40px;
+    height: 40px;
+}
+.myprojects button {
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px 95px;
+}
+.footer {
+    width: 980px;
+    height: 50px;
+}
+.footer p {
+    width: 240px;
+    margin: auto;
+}
+.footer ul {
+    width: 370px;
+    margin: auto;
+}
+.footer ul li {
+    display: inline-block;
+}
+.footer img {
+    width: 15px;
+    height: auto;
+}
