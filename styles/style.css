@@ -55,7 +55,7 @@
     vertical-align: top;
     width: 300px;
     height: 580px;
-    background-color: white;
+    background-image: linear-gradient(to left, #DBCCDA , #FFFFFF);
     margin-left: 15px;
 }
 .myprojects h2 {
